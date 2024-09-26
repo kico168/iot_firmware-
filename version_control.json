@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Outdoor",
+    "version": "1.0.1",
+    "firmware_url": "https://drive.google.com/uc?export=download&id=1ubjiiRaQknrqxFdpfvjTajtPCWr6zN4q"
+  },
+  {
+    "id": "MQTT",
+    "version": "1.0.0",
+    "firmware_url": "https://drive.google.com/uc?export=download&id=1ubjiiRaQknrqxFdpfvjTajtPCWr6zN4q"
+  }
+]
