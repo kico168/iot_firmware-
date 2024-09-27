@@ -1,7 +1,7 @@
 [
   {
     "id": "outdoor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "firmware_url": "https://github.com/kico168/iot_firmware/raw/refs/heads/main/outdoor.bin"
   },
   {
