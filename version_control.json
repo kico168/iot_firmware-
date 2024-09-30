@@ -2,7 +2,7 @@
   {
     "id": "outdoor",
     "version": "1.0.1",
-    "firmware_url": "http://127.0.0.1/outdoor.bin"
+    "firmware_url": "http://192.168.95.245/outdoor.bin"
   },
   {
     "id": "MQTT",
