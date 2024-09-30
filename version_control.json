@@ -2,7 +2,7 @@
   {
     "id": "outdoor",
     "version": "1.0.1",
-    "firmware_url": "https://drive.google.com/uc?id=1pv_xa4Y7ddI6IF2UylCLy7Iwt67yJu99"
+    "firmware_url": "https://kico168.github.io/iot_firmware/outdoor.bin"
   },
   {
     "id": "MQTT",
