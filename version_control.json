@@ -4,7 +4,7 @@
     "version": "1.0.1",
     "firmware_url": "https://raw.githubusercontent.com/kico168/iot_firmware/main/outdoor.bin",
     "Sleep_Mode": "1",
-    "Setting_minut": "1",
+    "Setting_minut": "5",
     "Note":"id設備名稱，version更新版本，firmware_url韌體更新位置，Sleep_Mode睡眠模式設定，0為正常工作Active_Mode，1為深度睡眠Deep_Sleep，Setting_minut睡眠時間設定(分鐘為單位)"
   },
   {
